@@ -1,0 +1,10 @@
+{
+  "id": "default_profile",
+  "company_name": "ABC Construction Pvt Ltd",
+  "annual_turnover": 70000000.0,
+  "experience_years": 5.0,
+  "gst_available": true,
+  "pan_available": true,
+  "experience_cert_available": true,
+  "completed_projects_count": 12
+}
